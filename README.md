@@ -3,7 +3,7 @@
 I'm a passionate fullstack developer. I enjoy learning new technologies, experimenting with different frameworks, and finding creative solutions to complex problems.
 
 
-### 💼 Connect with me:
+### 💼 My Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvahidsm/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mvahidsm/)
 
@@ -22,5 +22,5 @@ I'm a passionate fullstack developer. I enjoy learning new technologies, experim
 
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) **MySQL**
 
-### 📫 How to reach me:
+### 📫 Contact me:
 - **Email:** mvahidsm7@gmail.com
