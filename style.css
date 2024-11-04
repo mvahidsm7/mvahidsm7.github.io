@@ -1,0 +1,57 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  height: 2560px;
+  font-family: "Poppins";
+}
+
+@keyframes colorChange {
+  0% {
+    color: black;
+  }
+  25% {
+    color: blue;
+  }
+  50% {
+    color: cyan;
+  }
+  75% {
+    color: blue;
+  }
+  100% {
+    color: black;
+  }
+}
+
+#about {
+  margin-top: -5em;
+}
+
+.btn-more {
+  border: 1px black solid;
+  border-radius: 0.5em;
+  transition: transform 2s ease;
+}
+.btn-more:hover {
+  animation: colorChange 5s infinite;
+  border: 1px black solid;
+  border-radius: 0.5em;
+  transform: scale(1.05);
+}
+.navbar a {
+  display: inline-block; /* Agar transform dapat diterapkan dengan baik */
+  transition: transform 0.3s ease; /* Durasi transisi saat berubah ukuran */
+}
+
+.navbar a:hover {
+  transform: scale(1.05); /* Membesarkan ukuran menjadi 120% saat di-hover */
+}
+
+.highlight {
+  background-color: #d9d9d9;
+}
+
+.fade-on-scroll {
+  opacity: 1;               
+  transition: opacity 0.2s ease;
+}
